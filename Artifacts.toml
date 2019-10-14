@@ -1,0 +1,89 @@
+[[Xorg_fixesproto]]
+arch = "armv7l"
+git-tree-sha1 = "f675991e3c2c388832cafc9468c5046571d4b405"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_fixesproto.download]]
+    sha256 = "7aee10955372c378d43a92c55d4f2db0882860842c32bd1c3721d6736c4ef784"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_fixesproto_jll.jl/releases/download/Xorg_fixesproto-v5.0.0+0/Xorg_fixesproto.v5.0.0.arm-linux-gnueabihf.tar.gz"
+[[Xorg_fixesproto]]
+arch = "aarch64"
+git-tree-sha1 = "811a4a0d00f223c4823520930ce57b0658610cb7"
+libc = "musl"
+os = "linux"
+
+    [[Xorg_fixesproto.download]]
+    sha256 = "f5a5fa9123f1dff172bbb0a4c39d031a7ea8cfdfd537e890825eaec395c72d8d"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_fixesproto_jll.jl/releases/download/Xorg_fixesproto-v5.0.0+0/Xorg_fixesproto.v5.0.0.aarch64-linux-musl.tar.gz"
+[[Xorg_fixesproto]]
+arch = "i686"
+git-tree-sha1 = "2131bb24e5dea10a4702947ac00e62da13bcb50c"
+libc = "musl"
+os = "linux"
+
+    [[Xorg_fixesproto.download]]
+    sha256 = "c93a7515594c9936aa223dd09c759a64dbc4f717faf82752aadaf8931cb58c26"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_fixesproto_jll.jl/releases/download/Xorg_fixesproto-v5.0.0+0/Xorg_fixesproto.v5.0.0.i686-linux-musl.tar.gz"
+[[Xorg_fixesproto]]
+arch = "i686"
+git-tree-sha1 = "176c5d9e422c4e8cbc1b986ceae533d589b16c76"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_fixesproto.download]]
+    sha256 = "525e963a3853f23c00a5a9a490c78b44c632afcd0fcad728c3e07b297c136129"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_fixesproto_jll.jl/releases/download/Xorg_fixesproto-v5.0.0+0/Xorg_fixesproto.v5.0.0.i686-linux-gnu.tar.gz"
+[[Xorg_fixesproto]]
+arch = "x86_64"
+git-tree-sha1 = "149d6fe5e40a1200cdc9a979a5998049b35317ad"
+os = "freebsd"
+
+    [[Xorg_fixesproto.download]]
+    sha256 = "b7f12d24d537e65e957c28839676b7e2f8be95f84309f8340319c6d9c456d360"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_fixesproto_jll.jl/releases/download/Xorg_fixesproto-v5.0.0+0/Xorg_fixesproto.v5.0.0.x86_64-unknown-freebsd11.1.tar.gz"
+[[Xorg_fixesproto]]
+arch = "powerpc64le"
+git-tree-sha1 = "19721babe568d447d25554a63158f2804e9de03a"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_fixesproto.download]]
+    sha256 = "31215c97ad1dafd6eae191da612a8d81192ca36c5eba8dd874c8a40825e381a3"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_fixesproto_jll.jl/releases/download/Xorg_fixesproto-v5.0.0+0/Xorg_fixesproto.v5.0.0.powerpc64le-linux-gnu.tar.gz"
+[[Xorg_fixesproto]]
+arch = "armv7l"
+git-tree-sha1 = "dfb551db41975d42431b3036867e14ef2a5bf940"
+libc = "musl"
+os = "linux"
+
+    [[Xorg_fixesproto.download]]
+    sha256 = "38d44c9104cc1a9c87a3a3304d7587519273bfeffa2e3811c798ac174b49b6d6"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_fixesproto_jll.jl/releases/download/Xorg_fixesproto-v5.0.0+0/Xorg_fixesproto.v5.0.0.arm-linux-musleabihf.tar.gz"
+[[Xorg_fixesproto]]
+arch = "aarch64"
+git-tree-sha1 = "f80f8a2393539ae89a84bfc9eaa896c14672e579"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_fixesproto.download]]
+    sha256 = "11d26008e78a9521e89b47ead121f808953dd7cf0ae2004bb9558342c46c63a0"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_fixesproto_jll.jl/releases/download/Xorg_fixesproto-v5.0.0+0/Xorg_fixesproto.v5.0.0.aarch64-linux-gnu.tar.gz"
+[[Xorg_fixesproto]]
+arch = "x86_64"
+git-tree-sha1 = "cc36defccddc89a46eeea4de4cf212b1f7ebb0c9"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_fixesproto.download]]
+    sha256 = "dff937302d1b5939d7d91cce2ea949ff8d22cb6ac9f40ae7f3f03f74d80d97c1"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_fixesproto_jll.jl/releases/download/Xorg_fixesproto-v5.0.0+0/Xorg_fixesproto.v5.0.0.x86_64-linux-gnu.tar.gz"
+[[Xorg_fixesproto]]
+arch = "x86_64"
+git-tree-sha1 = "da8d5871853b3bedcb1962c3f55de258f7503510"
+libc = "musl"
+os = "linux"
+
+    [[Xorg_fixesproto.download]]
+    sha256 = "4c71204d05d4c9ea247be69521d0bca1285e3b84e5b01b569b71806f3e4bd956"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_fixesproto_jll.jl/releases/download/Xorg_fixesproto-v5.0.0+0/Xorg_fixesproto.v5.0.0.x86_64-linux-musl.tar.gz"
